@@ -77,11 +77,11 @@ Telefonica (o2)  trough the company [Telxius](https://telxius.com/en/inicio-en/)
 
 ### further reading
 
-Telekom reacting to the many request about their towers https://telekomhilft.telekom.de/t5/Geraete-Zubehoer/wichtiger-Hinweis-zu-quot-Wo-steht-mein-Funkmast-quot/m-p/999861#M8364
-10% Shareholder of Telxius https://en.wikipedia.org/wiki/Amancio_Ortega
-What is 4x4 MIMO ? https://www.howtogeek.com/394266/what-is-4x4-mimo-and-does-my-smartphone-need-it/
-Telekom blog about how 5G antennas work https://www.telekom.com/de/blog/netz/artikel/heptaband-antenne-5g-530618
-Telekom blog abou 4x4 MIMO https://www.telekom.com/de/blog/netz/artikel/4x4-mimo-hintergrund-532302
-Telekom blog about beamforming https://www.telekom.com/de/blog/netz/artikel/beamforming-5g-mobilfunk-570522
-Commscope company building antenna tech https://de.commscope.com/
-Portfolio of Deutsche Funkturms products https://dfmg.de/de/unser-unternehmen/standortportfolio.html
+* Telekom reacting to the many request about their towers https://telekomhilft.telekom.de/t5/Geraete-Zubehoer/wichtiger-Hinweis-zu-quot-Wo-steht-mein-Funkmast-quot/m-p/999861#M8364
+* 10% Shareholder of Telxius https://en.wikipedia.org/wiki/Amancio_Ortega
+* What is 4x4 MIMO ? https://www.howtogeek.com/394266/what-is-4x4-mimo-and-does-my-smartphone-need-it/
+* Telekom blog about how 5G antennas work https://www.telekom.com/de/blog/netz/artikel/heptaband-antenne-5g-530618
+* Telekom blog abou 4x4 MIMO https://www.telekom.com/de/blog/netz/artikel/4x4-mimo-hintergrund-532302
+* Telekom blog about beamforming https://www.telekom.com/de/blog/netz/artikel/beamforming-5g-mobilfunk-570522
+* Commscope company building antenna tech https://de.commscope.com/
+* Portfolio of Deutsche Funkturms products https://dfmg.de/de/unser-unternehmen/standortportfolio.html
