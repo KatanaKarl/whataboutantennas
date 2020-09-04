@@ -48,9 +48,7 @@ Telefonica (o2)  trough the company [Telxius](https://telxius.com/en/inicio-en/)
 ## Antenna Tech
 
 ## to do
-* more diverse and critical sources on companies
-* small cell
-  * images of their hiding spots. Ask BVG and BNetzA about it ?
+### web dev
 * Image database connected with the map
   * user upload
   * possible profile of maps
@@ -59,11 +57,18 @@ Telefonica (o2)  trough the company [Telxius](https://telxius.com/en/inicio-en/)
   * (Plus Account)[https://fragdenstaat.de/plus/] for mass requests to the Bundesnetzagentur ?
   * how does cellmapper get its technical details ?
   * Getting those information into the maps database
+* preproccess the Data extracted trough the emf scraper ?
+* Make js more lightweighted ?
+### research
+* more diverse and critical sources on companies
+* small cell
+  * images of their hiding spots. Ask BVG and BNetzA about it ?
 * expand the list of resources and links objectively
   * Showing/ giving example how one can start doing his/her own reasearch, information gathering 
   * easy way to deploy a local version of a map
   * Covering health aspect of electro magnetic fields
-* explain the tech 
+* explain the tech of antennas
+
   
 
 
