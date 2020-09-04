@@ -52,12 +52,12 @@
                                             var direction = antennas[j].direction;		//get the angles of each antenna
                                             if (direction != null) {
 
-                                                direction = JSON.stringify(direction).replace("°", ""); //Some of the datasets angles are Strings containing  "" and or ° so we strip the values form these characters
+                                                direction = JSON.stringify(direction).replace("Â°", ""); //Some of the datasets angles are Strings containing  "" and or Â° so we strip the values form these characters
                                                 direction = direction.replace(/"/g, '');
                                                 if (isNaN(direction) == false) {  //There are double values like 35/180 or NaN values so we need to skip those. Ugh
 
 
-                                                    var angledX = (lng + Math.cos(degrees_to_radians(-direction + 90)) * 0.001);  //After  converting the degrees to radians we need to add 90° to the minus value of the degrees since the degrees on a map start in the north
+                                                    var angledX = (lng + Math.cos(degrees_to_radians(-direction + 90)) * 0.001);  //After  converting the degrees to radians we need to add 90Â° to the minus value of the degrees since the degrees on a map start in the north
                                                     var angledY = (lat + Math.sin(degrees_to_radians(-direction + 90)) * 0.001);  // to draw a line in that certain angle we calculate a point that lies on the desired angle from the antenna coordinates
                                                     var latlngs = [
                                                         [lat, lng],
@@ -77,7 +77,7 @@
             }
         };
 
-        xmlhttp.open("GET", "https://pcis.life/test/antenna/orderedJson.json", true);
+        xmlhttp.open("GET", "orderedJson.json", true);
         xmlhttp.send();
         var mapy = L.map('mapId').setView([52.479045, 13.423185], 18);
 
