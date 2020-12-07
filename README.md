@@ -38,7 +38,7 @@ However open source Data scrapers for the EMF database can be found here:
  ## Who owns the Antennas ?
     
 The big cellular providers in Germany each have their own infrastructre provider connected to them.
-[Deutsche Funkturm](https://dfmg.de/en/home.html) is a subcompany of Deutsche Telekom owning and running 30.000 telecommunication sites in germany[1]. Of which 50% are also hosting antennas of other Cell phone providers according to their own statements[2]. INteresting to not is that they also own big Towers like the *Berliner Fernsehturm* or the *Fernmeldeturm Bremen*
+[Deutsche Funkturm](https://dfmg.de/en/home.html) is a subcompany of Deutsche Telekom owning and running 30.000 telecommunication sites in germany[1]. Of which 50% are also hosting antennas of other Cell phone providers according to their own statements[2]. Interesting to note is that they also own big Towers like the *Berliner Fernsehturm* or the *Fernmeldeturm Bremen*
 Deutsche Funkturm offers a map as well in which planned new towers and antenna sites are listed. The current status of each project including problems anc obstacle in the process are documented [map](https://dfmg.de/de/unser-unternehmen/herausforderung-im-mobilfunkausbau.html)
 
 Vodafone  recently found it's own branch for building and maintaining infrastructre. [Vantage towers](https://www.vodafone.com/news-and-media/vodafone-group-releases/news/vantage-towers) holds  68,000 towers across 9 countries including Germany, Spain, Greece, Portugal, Czech Republic, Romania, Hungary, Ireland and Italy[3]. Making them effectively one if not the biggest telecommunications tower provider in europe
