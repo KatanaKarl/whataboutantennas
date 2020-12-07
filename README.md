@@ -31,13 +31,13 @@ However open source Data scrapers for the EMF database can be found here:
  The app Cellmapper takes it further by letting its users scan and measure cell phone signals wherever they go. The data crowdsourced by the users then get depicted on a map that provides many technical details as well:
  * [Cellmapper map](https://www.cellmapper.net/map)
  
- * [WiGLE](https://wigle.net) is another map feed by userdata conectrating on wifi networks
+ * [WiGLE](https://wigle.net) is another map feed by userdata concentrating on wifi networks
  
 
  
  ## Who owns the Antennas ?
     
-The big phone companies in Germany each bring their own infrastructre provider connected to them.
+The big cellular providers in Germany each have their own infrastructre provider connected to them.
 [Deutsche Funkturm](https://dfmg.de/en/home.html) is a subcompany of Deutsche Telekom owning and running 30.000 telecommunication sites in germany[1]. Of which 50% are also hosting antennas of other Cell phone providers according to their own statements[2]. INteresting to not is that they also own big Towers like the *Berliner Fernsehturm* or the *Fernmeldeturm Bremen*
 Deutsche Funkturm offers a map as well in which planned new towers and antenna sites are listed. The current status of each project including problems anc obstacle in the process are documented [map](https://dfmg.de/de/unser-unternehmen/herausforderung-im-mobilfunkausbau.html)
 
